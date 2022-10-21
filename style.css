@@ -128,11 +128,11 @@ html {
 body {
   background-color: #6d28d9;
 }
+
 .main {
   display: flex;
   flex-direction: column;
   height: 100%;
-
   background-color: #6d28d9;
 }
 
