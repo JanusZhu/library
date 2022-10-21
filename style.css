@@ -125,6 +125,9 @@ body,
 html {
   font-family: "Courier New", Courier, monospace;
 }
+body {
+  background-color: #6d28d9;
+}
 .main {
   display: flex;
   flex-direction: column;
